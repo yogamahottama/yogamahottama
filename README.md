@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogamahottama
 - 👀 I’m interested in things related to computer networks and web development
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning SRE and Devops
 - 📫 Hit me up on yoga.smatn25@gmail.com
 
 <!---
