@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogamahottama
-- 👀 I’m interested in things related to computer networks and web development
+- 👀 I’m interested in things related to Infra
 - 🌱 I’m currently learning SRE and Devops
-- 📫 Hit me up on yoga.smatn25@gmail.com
+- 📫 Hit me up on yoga.mahottama@gmail.com
 
 <!---
 yogamahottama/yogamahottama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
